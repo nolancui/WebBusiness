@@ -1,0 +1,10 @@
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\bin\Debug\Dyne.Dal.dll
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\bin\Debug\Dyne.Dal.pdb
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

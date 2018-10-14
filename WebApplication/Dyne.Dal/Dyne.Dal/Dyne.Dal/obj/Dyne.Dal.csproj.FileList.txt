@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Dyne.Dal.dll
+bin\Debug\Dyne.Dal.pdb
+bin\Debug\System.Data.SqlClient.dll
+obj\Debug\Dyne.Dal.dll
+obj\Debug\Dyne.Dal.pdb

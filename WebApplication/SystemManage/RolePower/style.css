@@ -1,0 +1,102 @@
+.copyright {
+	LINE-HEIGHT: 12pt; FONT-FAMILY: "宋体"; COLOR: #333333; FONT-SIZE: 9pt
+}
+A.copyright:active {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.copyright:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.copyright:link {
+	COLOR: #0000cc; TEXT-DECORATION: underline
+}
+A.copyright:visited {
+	COLOR: #0000cc; TEXT-DECORATION: underline
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+TEXTAREA {
+	OVERFLOW: auto
+}
+.input1 {
+	BORDER-RIGHT-WIDTH: 1px; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; HEIGHT: 19px; COLOR: #000000; FONT-SIZE: 12px; BORDER-LEFT-WIDTH: 1px
+}
+.input {
+	BORDER-BOTTOM: #003366 1px solid; BORDER-LEFT: #003366 1px solid; BACKGROUND-COLOR: #ffffff; FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 9pt; BORDER-TOP: #003366 1px solid; BORDER-RIGHT: #003366 1px solid
+}
+.txt01 {
+	FONT-FAMILY: "宋体"; FONT-SIZE: 12px
+}
+.txt-b01 {
+	BORDER-BOTTOM: #696a6b 1px solid; BORDER-LEFT: #dadada 1px solid; BACKGROUND-COLOR: #efefef; FONT-FAMILY: "宋体"; COLOR: #023361; FONT-SIZE: 12px; BORDER-TOP: #efefef 1px solid; BORDER-RIGHT: #595959 1px solid
+}
+.txt-b02 {
+	BACKGROUND-COLOR: #f1eeee; FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 12px
+}
+.trtxt {
+	FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 12px
+}
+.title01 {
+	FONT-FAMILY: "黑体"; LETTER-SPACING: 5px; COLOR: #023361; FONT-SIZE: 16px
+}
+.bb {
+	FONT-FAMILY: "宋体"; COLOR: #000000; FONT-SIZE: 12px
+}
+.txt-b03 {
+	BACKGROUND-COLOR: #f1eeee; FONT-FAMILY: "宋体"; COLOR: #023361; FONT-SIZE: 12px
+}
+.form01 {
+	FONT-FAMILY: "宋体"; LETTER-SPACING: 3px; HEIGHT: 20px; FONT-SIZE: 12px
+}
+.form02 {
+	FONT-SIZE: 12px
+}
+TABLE {
+	FONT-FAMILY: "Verdana","宋体"; FONT-SIZE: 9pt
+}
+BODY {
+	FONT-FAMILY: "Verdana","宋体"; FONT-SIZE: 9pt
+}
+.textarea1 {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; BACKGROUND-COLOR: #efefef; FONT-FAMILY: "Tahoma", "宋体"; COLOR: #000000; FONT-SIZE: 9pt; OVERFLOW: auto; BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT: #c0c0c0 1px solid
+}
+.pagetitle {
+	BACKGROUND-IMAGE: url(../images/thbg.gif); PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; HEIGHT: 28px; COLOR: #075587; FONT-SIZE: 12px; FONT-WEIGHT: bold; PADDING-TOP: 6px
+}
+.headerTable {
+	BORDER-LEFT: buttonshadow 1px solid; WIDTH: 100%; FONT: icon; BACKGROUND: threeddarkshadow; TABLE-LAYOUT: fixed; COLOR: buttontext; BORDER-TOP: buttonshadow 1px solid; BORDER-RIGHT: threedlightshadow 1px solid
+}
+.headerTableTD {
+	BORDER-BOTTOM: buttonshadow 1px solid; BORDER-LEFT: buttonhighlight 1px solid; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: buttonface; BORDER-TOP: buttonhighlight 1px solid; BORDER-RIGHT: buttonshadow 1px solid
+}
+.headerTable #subjectHeader {
+	WIDTH: 300px
+}
+.headerTable #fromHeader {
+	WIDTH: 150px
+}
+.headerTable #sentHeader {
+	WIDTH: 120px
+}
+.But1 {
+	BACKGROUND-COLOR: menu; FONT-FAMILY: Arial; HEIGHT: 20px; COLOR: blue; FONT-SIZE: 12px; OVERFLOW: auto; FONT-WEIGHT: normal
+}
+.DivTitle {
+	BORDER-BOTTOM: #ccbb99 1px solid; PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #fcf5e9; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; HEIGHT: 25px; FONT-SIZE: 9pt; BORDER-TOP: #ccbb99 1px solid; PADDING-TOP: 2px
+}
+.TDWhite {
+	PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; HEIGHT: 25px; PADDING-TOP: 2px
+}
+.TDGray {
+	PADDING-BOTTOM: 2px; BACKGROUND-COLOR: #efefef; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; HEIGHT: 25px; PADDING-TOP: 2px
+}
+TABLE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-COLLAPSE: collapse; FONT-FAMILY: "Tahoma", "宋体"; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+.huanhang {
+	LINE-HEIGHT: 10px
+}

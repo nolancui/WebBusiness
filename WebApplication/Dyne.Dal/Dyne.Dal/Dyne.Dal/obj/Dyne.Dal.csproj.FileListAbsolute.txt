@@ -1,0 +1,10 @@
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\obj\Debug\ResolveAssemblyReference.cache
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\bin\Debug\Dyne.Dal.dll
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\bin\Debug\Dyne.Dal.pdb
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\obj\Debug\Dyne.Dal.dll
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\obj\Debug\Dyne.Dal.pdb
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\bin\Release\Dyne.Dal.dll
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\bin\Release\Dyne.Dal.pdb
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\obj\Release\ResolveAssemblyReference.cache
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\obj\Release\Dyne.Dal.dll
+D:\项目源码及相关文档\公用组件C#2005\数据库访问\Dyne.Dal\Dyne.Dal\obj\Release\Dyne.Dal.pdb

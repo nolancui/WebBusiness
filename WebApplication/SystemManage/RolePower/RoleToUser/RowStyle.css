@@ -1,0 +1,24 @@
+.ListColorOver {
+	BORDER-BOTTOM-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BACKGROUND-COLOR: #a3ceec; BORDER-TOP-STYLE: dotted; BORDER-LEFT-STYLE: dotted
+}
+.ListColor1 {
+	BORDER-BOTTOM-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BACKGROUND-COLOR: #fff3ca; BORDER-TOP-STYLE: dotted; BORDER-LEFT-STYLE: dotted
+}
+.ListColor2 {
+	BORDER-BOTTOM-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BACKGROUND-COLOR: #ffffff; BORDER-TOP-STYLE: dotted; BORDER-LEFT-STYLE: dotted
+}
+.ListColor3 {
+	BORDER-BOTTOM-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BACKGROUND-COLOR: #c7edcc; BORDER-TOP-STYLE: dotted; BORDER-LEFT-STYLE: dotted
+}
+.ListColor5 {
+	BORDER-BOTTOM-STYLE: dotted; BORDER-RIGHT-STYLE: dotted; BACKGROUND-COLOR: #f2f2f2; BORDER-TOP-STYLE: dotted; BORDER-LEFT-STYLE: dotted
+}
+.ListColor2 {
+	BACKGROUND-IMAGE: url(../images/List_List_bg.gif); FONT-FAMILY: "Verdana","ËÎÌו"; HEIGHT: 26px; COLOR: #333333; FONT-SIZE: 9pt
+}
+.ListColor3 {
+	BACKGROUND-IMAGE: url(../images/List_List_bg2.gif); FONT-FAMILY: "Verdana","ËÎÌו"; HEIGHT: 26px; COLOR: #333333; FONT-SIZE: 9pt
+}
+.ListColorOver {
+	BACKGROUND-COLOR: #eaeaea; FONT-FAMILY: "Verdana","ËÎÌו"; HEIGHT: 26px; COLOR: #333333; FONT-SIZE: 9pt
+}

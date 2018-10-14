@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{816F9378-06E6-4934-8110-F615FFCE272F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B} = {6401C875-873A-4E60-A02D-CEAC5DDD5A1B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyne.Dal", "WebApplication\Dyne.Dal\Dyne.Dal.csproj", "{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816F9378-06E6-4934-8110-F615FFCE272F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{816F9378-06E6-4934-8110-F615FFCE272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{816F9378-06E6-4934-8110-F615FFCE272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{816F9378-06E6-4934-8110-F615FFCE272F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

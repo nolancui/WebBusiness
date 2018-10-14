@@ -1,0 +1,33 @@
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Tahoma; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.footer {
+	LINE-HEIGHT: 26px; BACKGROUND: url(../images/footer.gif) repeat-x; HEIGHT: 26px
+}
+.fleft {
+	FLOAT: left
+}
+.fleft LI {
+	LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(../images/flibg.gif) no-repeat right 50%; FLOAT: left; HEIGHT: 26px; COLOR: #022c43
+}
+.fleft LI SPAN {
+	MARGIN-TOP: 5px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 14px; MARGIN-RIGHT: 7px
+}
+.fleft LI LABEL {
+	COLOR: #93d2ef
+}
+.fright {
+	PADDING-RIGHT: 13px; FLOAT: right; COLOR: #93d2ef
+}
+.fright LABEL {
+	COLOR: #022c43
+}

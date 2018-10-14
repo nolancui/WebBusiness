@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyne.Dal", "Dyne.Dal\Dyne.Dal.csproj", "{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.csproj", "{DB904E1F-E6CA-468B-AD17-7FE054D6AED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dyne.ConfigOper", "..\..\配置文件操作\Dyne.ConfigOper\Dyne.ConfigOper.csproj", "{D421C2AB-F832-46AC-9B17-55A4E0D539BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6401C875-873A-4E60-A02D-CEAC5DDD5A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB904E1F-E6CA-468B-AD17-7FE054D6AED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB904E1F-E6CA-468B-AD17-7FE054D6AED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB904E1F-E6CA-468B-AD17-7FE054D6AED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB904E1F-E6CA-468B-AD17-7FE054D6AED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D421C2AB-F832-46AC-9B17-55A4E0D539BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D421C2AB-F832-46AC-9B17-55A4E0D539BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D421C2AB-F832-46AC-9B17-55A4E0D539BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D421C2AB-F832-46AC-9B17-55A4E0D539BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

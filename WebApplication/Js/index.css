@@ -1,0 +1,273 @@
+HTML {
+	OVERFLOW: hidden
+}
+BODY {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #178bc8; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Verdana; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.header {
+	POSITION: relative; BACKGROUND: url(../images/topbg.gif) repeat-x; HEIGHT: 79px
+}
+.headtop {
+	WHITE-SPACE: nowrap; HEIGHT: 51px; WORD-BREAK: break-all
+}
+.logo {
+	POSITION: absolute; WIDTH: 363px; BACKGROUND: url(../images/topleft.gif) no-repeat; FLOAT: left; HEIGHT: 51px; TOP: 0px; LEFT: 0px
+}
+.logo IMG {
+	MARGIN-TOP: 5px; MARGIN-LEFT: 25px
+}
+.shutdown {
+	Z-INDEX: 100; POSITION: absolute; WIDTH: 23px; HEIGHT: 24px; TOP: 23px; CURSOR: pointer; RIGHT: 7px
+}
+.nav {
+	POSITION: absolute; LINE-HEIGHT: 34px; MARGIN-TOP: 17px; WIDTH: 620px; BACKGROUND: url(../images/navright.png) no-repeat right 50%; FLOAT: right; HEIGHT: 34px; TOP: 0px; RIGHT: 20px
+}
+.nleft {
+	WIDTH: 33px; BACKGROUND: url(../images/navleft.png) no-repeat; FLOAT: left; HEIGHT: 34px
+}
+.nright {
+	WIDTH: 33px; BACKGROUND: url(../images/navright.gif) no-repeat; FLOAT: right; HEIGHT: 34px
+}
+#nav {
+	BACKGROUND: url(../images/navbg.png) repeat-x; FLOAT: left
+}
+#nav LI {
+	LINE-HEIGHT: 34px; WIDTH: 95px; BACKGROUND: url(../images/navline.gif) no-repeat right 3px; FLOAT: left; HEIGHT: 34px; COLOR: #effaff
+}
+#nav .navLast {
+	BACKGROUND-IMAGE: none
+}
+#nav LI SPAN {
+	MARGIN-TOP: 9px; DISPLAY: block; FLOAT: left; MARGIN-LEFT: 15px; MARGIN-RIGHT: 5px; _margin-left: 7px
+}
+.menu {
+	LINE-HEIGHT: 28px; BACKGROUND: url(../images/menubg.gif); HEIGHT: 28px; CLEAR: both
+}
+.mleft {
+	FLOAT: left; HEIGHT: 18px; widht: 11px
+}
+.mright {
+	FLOAT: right; HEIGHT: 18px; widht: 11px
+}
+.mlist {
+	FLOAT: left; HEIGHT: 28px; MARGIN-LEFT: 5px; ling-height: 28px
+}
+.mlist LI {
+	PADDING-LEFT: 3px; PADDING-RIGHT: 8px; BACKGROUND: url(../images/mline.gif) no-repeat right 50%; FLOAT: left; HEIGHT: 28px; COLOR: #3b90b7
+}
+.mlist LI SPAN {
+	MARGIN-TOP: 5px; DISPLAY: block; FLOAT: left; MARGIN-LEFT: 4px; MARGIN-RIGHT: 4px; _margin-left: 2px; _margin-right: 2px
+}
+.mlist LI CODE {
+	DISPLAY: block; FLOAT: left; _margin-top: 5px
+}
+.mlistright {
+	FLOAT: right
+}
+.mlistright LI {
+	LINE-HEIGHT: 28px; FONT-FAMILY: Tahoma; BACKGROUND: url(../images/mline.gif) no-repeat right 50%; FLOAT: left; HEIGHT: 28px; COLOR: #3b90b7
+}
+.mlistright LI SPAN {
+	MARGIN-TOP: 5px; PADDING-LEFT: 5px; DISPLAY: block; FLOAT: left
+}
+.mlistright LI LABEL {
+	PADDING-LEFT: 5px; PADDING-RIGHT: 8px
+}
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Tahoma; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.footer {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/footer.gif) repeat-x; HEIGHT: 26px; CLEAR: both; PADDING-TOP: 0px; _margin-top: -14px
+}
+.fleft {
+	FLOAT: left
+}
+.fleft LI {
+	LINE-HEIGHT: 26px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND: url(../images/flibg.gif) no-repeat right 50%; FLOAT: left; HEIGHT: 26px; COLOR: #022c43
+}
+.fleft LI SPAN {
+	MARGIN-TOP: 5px; WIDTH: 14px; DISPLAY: block; FLOAT: left; HEIGHT: 14px; MARGIN-RIGHT: 7px
+}
+.fleft LI LABEL {
+	COLOR: #93d2ef
+}
+.fright {
+	PADDING-RIGHT: 13px; FLOAT: right; COLOR: #93d2ef
+}
+.fright LABEL {
+	COLOR: #022c43
+}
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Verdana; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.left {
+	BACKGROUND-IMAGE: url(../images/leftbg.gif); BACKGROUND-COLOR: #fff; PADDING-LEFT: 5px; WIDTH: 169px; BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: left 50%; FLOAT: left
+}
+.lefttitle {
+	BORDER-LEFT: #55bae6 1px solid; LINE-HEIGHT: 27px; BACKGROUND: url(../images/lefttitlebg.gif) repeat-x; HEIGHT: 27px; COLOR: #fff; FONT-WEIGHT: bold; BORDER-RIGHT: #55bae6 1px solid
+}
+.lefttitle SPAN {
+	MARGIN-TOP: 4px; DISPLAY: block; FLOAT: left; MARGIN-LEFT: 13px; MARGIN-RIGHT: 7px; _margin-left: 7px; _margin-right: 4px
+}
+.leftlink {
+	OVERFLOW: hidden
+}
+.leftlink LI {
+	BACKGROUND: url(../images/ollibg.gif) repeat-y right 50%
+}
+.linktitle {
+	LINE-HEIGHT: 27px; BACKGROUND: url(../images/leftmenubg.gif) repeat-x; HEIGHT: 27px; COLOR: #075587; FONT-SIZE: 9pt; CURSOR: pointer; FONT-WEIGHT: normal
+}
+.linktitle SPAN {
+	MARGIN-TOP: 5px; DISPLAY: block; FLOAT: left; MARGIN-LEFT: 14px; MARGIN-RIGHT: 7px; _margin-left: 7px
+}
+.leftlink OL {
+	BORDER-BOTTOM: #b9ddec 1px solid; PADDING-BOTTOM: 8px; LIST-STYLE-TYPE: none; PADDING-LEFT: 34px; BACKGROUND: url(../images/olbg.gif) repeat-y left 50%; OVERFLOW: hidden; LIST-STYLE-IMAGE: none; PADDING-TOP: 8px
+}
+.leftlink OL LI {
+	LINE-HEIGHT: 23px; LIST-STYLE-TYPE: none; HEIGHT: 23px; COLOR: #075587; LIST-STYLE-IMAGE: none
+}
+.leftlink OL LI SPAN {
+	PADDING-RIGHT: 8px
+}
+.leftinfo {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 156px; BOTTOM: 10px; BACKGROUND: url(../images/nt.jpg) no-repeat center center; HEIGHT: 43px; LEFT: 5px
+}
+.linkOl {
+	DISPLAY: none
+}
+.linkOl LI {
+	CURSOR: pointer
+}
+.linkAfter.linktitle {
+	FONT-WEIGHT: bold
+}
+.main {
+	PADDING-RIGHT: 5px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Tahoma; BACKGROUND: #198bc9; FONT-SIZE: 9pt; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.right {
+	POSITION: relative; WIDTH: 800px; FLOAT: left
+}
+.righttop {
+	FLOAT: left; HEIGHT: 27px
+}
+.righttop LI {
+	LINE-HEIGHT: 25px; MARGIN-TOP: 2px; FLOAT: left; HEIGHT: 25px; COLOR: #afdbfa
+}
+.righttop LI A {
+	COLOR: #afdbfa; CURSOR: pointer; TEXT-DECORATION: none
+}
+.righttop LI A LABEL {
+	PADDING-LEFT: 20px; PADDING-RIGHT: 33px; DISPLAY: block; BACKGROUND: url(../images/tabr.png) no-repeat right 50%; FLOAT: left; COLOR: #afdbfa; TEXT-DECORATION: none
+}
+.righttop LI A SPAN {
+	WIDTH: 4px; DISPLAY: block; BACKGROUND: url(../images/tabl.png) no-repeat; FLOAT: left; HEIGHT: 25px
+}
+.righttop LI A:hover LABEL {
+	PADDING-LEFT: 20px; PADDING-RIGHT: 33px; DISPLAY: block; BACKGROUND: url(../images/tabright.png) no-repeat right 50%; FLOAT: left; COLOR: #afdbfa; TEXT-DECORATION: none
+}
+.righttop LI A:hover SPAN {
+	WIDTH: 4px; DISPLAY: block; BACKGROUND: url(../images/tableft.png) no-repeat; FLOAT: left; HEIGHT: 25px
+}
+.rightdown {
+	BACKGROUND-IMAGE: url(../images/rightbg.gif); BACKGROUND-COLOR: #fff; BACKGROUND-REPEAT: repeat-x; HEIGHT: 400px; CLEAR: both
+}
+.rightan {
+	POSITION: absolute; PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: right; TOP: 2px; RIGHT: 5px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+.rightan LI {
+	FLOAT: left; CURSOR: pointer
+}
+.qj_oc {
+	WIDTH: 5px; FLOAT: left; HEIGHT: auto; OVERFLOW: hidden
+}
+#qjoc_button {
+	BACKGROUND-IMAGE: url(../images/tleft.gif); MARGIN-TOP: 250px; WIDTH: 5px; DISPLAY: block; HEIGHT: 39px
+}
+.qjoc_buttonAfter#qjoc_button {
+	BACKGROUND-IMAGE: url(../images/tleft2.gif)
+}
+#tab_frame {
+	WIDTH: 500px; HEIGHT: 26px; OVERFLOW: hidden
+}
+#tab {
+	HEIGHT: 26px
+}
+#tab IFRAME {
+	Z-INDEX: 1; POSITION: absolute; BACKGROUND-COLOR: #fff; WIDTH: 801px; DISPLAY: block; TOP: 26px; LEFT: 0px
+}
+#tab LI {
+	BACKGROUND-IMAGE: url(../images/tabBg.gif); WIDTH: 102px; DISPLAY: block; FLOAT: left; HEIGHT: 26px
+}
+.tabButn {
+	TEXT-ALIGN: center; LINE-HEIGHT: 28px; PADDING-LEFT: 5px; WIDTH: 75px; DISPLAY: block; FLOAT: left; HEIGHT: 26px; COLOR: #075587; FONT-SIZE: 9pt; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+.tab_before {
+	WIDTH: 102px; DISPLAY: block; BACKGROUND-POSITION: -102px top; FLOAT: left; HEIGHT: 26px; COLOR: #afdbfa
+}
+.tab_before .tabButn {
+	COLOR: #afdbfa
+}
+.tab_after {
+	BACKGROUND-POSITION: left top
+}
+.tabClose {
+	MARGIN-TOP: 2px; WIDTH: 17px; DISPLAY: block; FLOAT: left; HEIGHT: 17px; CURSOR: pointer
+}
+.tabClose:hover {
+	BACKGROUND-IMAGE: url(../images/tabClose02.png); BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; CURSOR: pointer; _background-image: url(../images/tabClose02.gif)
+}
+#goRight {
+	BACKGROUND-IMAGE: url(../images/r02.gif); WIDTH: 19px; HEIGHT: 17px
+}
+#goLeft {
+	BACKGROUND-IMAGE: url(../images/r01.gif); WIDTH: 23px; HEIGHT: 17px
+}
+.goAfter#goLeft {
+	BACKGROUND-IMAGE: url(../images/r1.gif)
+}
+.goAfter#goRight {
+	BACKGROUND-IMAGE: url(../images/r2.gif)
+}
